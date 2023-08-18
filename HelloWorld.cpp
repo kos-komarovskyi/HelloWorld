@@ -7,8 +7,8 @@ int main()
 {
 	
 	cout << "Hello World!" << endl;
+	cout << "My name is Kos" << endl;
+
 	return 0;
 
 }
-
-// I would like to try to add this comment
